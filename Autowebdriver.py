@@ -8,8 +8,8 @@ import time
 driver = webdriver.Chrome("driver/chromedriver.exe")
 
 url  = "https://www.linkedin.com/login?fromSignIn=true&trk=guest_homepage-basic_nav-header-signin"
-username = 'airhunmwup@icloud.com'
-password = 'Omonivie,123'
+username = 'youremail@email.com'
+password = 'yourpassword,here'
 
 driver.get(url)
 
