@@ -36,3 +36,5 @@ time.sleep(2)
 driver.find_element_by_class_name("search-filter-typeahead__suggestion-item-value").click()
 time.sleep(2)
 driver.find_element_by_id("ember117").click()
+
+driver.quit()
